@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F18E56A9-88C9-AD98-8BC1-59D1993EF442}") = "Pongerino", "Assembly-CSharp.csproj", "{505FA369-4168-0C41-2904-8574348F889E}"
+EndProject
+Project("{F18E56A9-88C9-AD98-8BC1-59D1993EF442}") = "Pongerino", "Assembly-UnityScript-firstpass.unityproj", "{BD616061-E4C2-CCCC-94B0-D946B23BEA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505FA369-4168-0C41-2904-8574348F889E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505FA369-4168-0C41-2904-8574348F889E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505FA369-4168-0C41-2904-8574348F889E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505FA369-4168-0C41-2904-8574348F889E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD616061-E4C2-CCCC-94B0-D946B23BEA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD616061-E4C2-CCCC-94B0-D946B23BEA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD616061-E4C2-CCCC-94B0-D946B23BEA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD616061-E4C2-CCCC-94B0-D946B23BEA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
